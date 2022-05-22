@@ -1,5 +1,5 @@
 <h1>Flex Panels-Práctica de transiciones en CSS</h1>
-<p>Este proyecto pertenece a uno de los proyectos de <a href="https://javascript30.com/"> JavaScript 30</a> donde se pone en práctica manipulación del CSS desde Javascript y práctica de las transiciones en CSS, en este caso utilizamos específicamente las de font-size, flex y background<a href="https://www.w3schools.com/css/css3_transitions.asp"> CSS Transitions/a></p>
+<p>Este proyecto pertenece a uno de los proyectos de <a href="https://javascript30.com/"> JavaScript 30</a> donde se pone en práctica manipulación del CSS desde Javascript y práctica de las transiciones en CSS, en este caso utilizamos específicamente las de font-size, flex y background<a href="https://www.w3schools.com/css/css3_transitions.asp"> CSS Transitions</a></p>
 
 <h1>Preview del proyecto<h1>
 <img align="center" src="FlexPanels.gif"/>
